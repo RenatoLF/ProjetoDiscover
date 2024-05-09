@@ -158,9 +158,9 @@ footer {
   padding: 24px 0px;
   text-align: center;
 }
-
+/*
 /*media queries*/
-@media (main-width: 700px) {
+@media (main-width: 200px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
